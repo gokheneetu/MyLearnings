@@ -2,6 +2,7 @@ package com.example.selenium4java17;
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
@@ -14,13 +15,19 @@ import java.util.List;
 
 public class AmazonTest {
 
-    WebDriver driver = new ChromeDriver();
+    WebDriver driver;
 
     @Test
     public void addtoCart() throws InterruptedException {
-        driver.get("https://www.amazon.in/ref=nav_logo");
-        driver.manage().window().maximize();
+        ChromeOptions chromeOptions = new ChromeOptions();
+        chromeOptions.addArguments("start-maximized");
+        chromeOptions.addArguments("headless");
+        driver = new ChromeDriver(chromeOptions);
         String wd = driver.getWindowHandle();
+
+        driver.get("https://www.amazon.in/ref=nav_logo");
+//        driver.manage().window().maximize();
+
         driver.findElement(By.id("twotabsearchtextbox")).sendKeys("iphone");
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
         Thread.sleep(1000);

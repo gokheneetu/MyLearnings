@@ -1,4 +1,4 @@
-package com.example.selenium4java17;
+package com.example.selenium4java17.Sawal;
 
 public class ReverseString {
     public static void main(String[] args) throws Exception {

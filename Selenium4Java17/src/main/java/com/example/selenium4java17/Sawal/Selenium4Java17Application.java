@@ -1,4 +1,4 @@
-package com.example.selenium4java17;
+package com.example.selenium4java17.Sawal;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
