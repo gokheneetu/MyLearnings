@@ -36,7 +36,7 @@ public class DemoRestTest {
     response.then().assertThat().statusCode(200);
 
 //        Object img = response.getBody().jsonPath().getJsonObject("image");
-        response.getBody().jsonPath().getList();
+//        response.getBody().jsonPath().getList();
         List<String> cl = response.getBody().jsonPath().getList("categories");
         ObjectMapper objectMapper = new ObjectMapper();
         String json = objectMapper.writeValueAsString(response.getBody().jsonPath().getJsonObject("image"));
