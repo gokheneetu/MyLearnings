@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e29da2dd-0618-4d98-9ae2-7d95266a7f2e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;gokheneetu&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/gokheneetu/MyLearnings.git&quot;,
+    &quot;accountId&quot;: &quot;1fdcd8b8-9971-44dc-bb8e-734698c29af3&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2r8stijZMl1v83xl0MR8ibVAkNN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AshotFullPageScreenshot.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScrollAndStitchScreenshot.executor&quot;: &quot;Debug&quot;,
+    &quot;Notification.DisplayName-DoNotAsk-Vcs Important Messages&quot;: &quot;VCS important messages&quot;,
+    &quot;Notification.DoNotAsk-Vcs Important Messages&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;TestNG.SearchTest.checkSearchField.executor&quot;: &quot;Debug&quot;,
+    &quot;TestNG.SearchTest.executor&quot;: &quot;Debug&quot;,
+    &quot;TestNG.SelectDemo (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SelectDemo.GoogleSearch.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SelectDemo.amazonSearch.executor&quot;: &quot;Debug&quot;,
+    &quot;TestNG.SelectDemo.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SelectDemo.flipkartSearch (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SelectDemo.flipkartSearch.executor&quot;: &quot;Debug&quot;,
+    &quot;TestNG.SelectDemo.selectTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SelectDemo.selectTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SelectDemo.selectTest1 (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SelectDemo.selectTest1 (2).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SelectDemo.selectTest1.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;webAutomation&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/neetugokhe/MyLearnings/webAutomationDemo&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.ScrollAndStitchScreenshot">
+    <configuration name="AshotFullPageScreenshot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ng.AshotFullPageScreenshot" />
+      <module name="webAutomationDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScrollAndStitchScreenshot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ng.ScrollAndStitchScreenshot" />
+      <module name="webAutomationDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="webAutomationDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="webAutomationDemo" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SelectDemo.amazonSearch" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="webAutomationDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ng.extraTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.ng.extraTest" />
+      <option name="MAIN_CLASS_NAME" value="org.ng.extraTest.SelectDemo" />
+      <option name="METHOD_NAME" value="amazonSearch" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectDemo.flipkartSearch (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="webAutomationDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ng.extraTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.ng.extraTest" />
+      <option name="MAIN_CLASS_NAME" value="org.ng.extraTest.SelectDemo" />
+      <option name="METHOD_NAME" value="flipkartSearch" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectDemo.flipkartSearch" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="webAutomationDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ng.extraTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.ng.extraTest" />
+      <option name="MAIN_CLASS_NAME" value="org.ng.extraTest.SelectDemo" />
+      <option name="METHOD_NAME" value="flipkartSearch" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ScrollAndStitchScreenshot" />
+        <item itemvalue="Application.AshotFullPageScreenshot" />
+        <item itemvalue="TestNG.SelectDemo.flipkartSearch" />
+        <item itemvalue="TestNG.SelectDemo.flipkartSearch (1)" />
+        <item itemvalue="TestNG.SelectDemo.amazonSearch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e29da2dd-0618-4d98-9ae2-7d95266a7f2e" name="Changes" comment="" />
+      <created>1735952256079</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735952256079</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ng/pages/search/SearchPage.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/ng/extraTest/SelectDemo.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ng/ScrollAndStitchScreenshot.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

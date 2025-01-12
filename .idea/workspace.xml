@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e52f116-4ac9-440f-8257-988473755ff9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/PageObjectModel/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjectModel/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageObjectModel/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageObjectModel/target/classes/META-INF/maven/FreeCRMTestAutomation/FreeCRMTest/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageObjectModel/target/classes/META-INF/maven/FreeCRMTestAutomation/FreeCRMTest/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageObjectModel/target/classes/com/crm/qa/base/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjectModel/target/classes/com/crm/qa/base/TestBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageObjectModel/target/classes/com/crm/qa/pages/ContactsPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjectModel/target/classes/com/crm/qa/pages/ContactsPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageObjectModel/target/classes/com/crm/qa/pages/DealsPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjectModel/target/classes/com/crm/qa/pages/DealsPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageObjectModel/target/classes/com/crm/qa/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjectModel/target/classes/com/crm/qa/pages/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageObjectModel/target/classes/com/crm/qa/pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjectModel/target/classes/com/crm/qa/pages/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageObjectModel/target/classes/com/crm/qa/pages/SignUpPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjectModel/target/classes/com/crm/qa/pages/SignUpPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageObjectModel/target/classes/com/crm/qa/pages/TasksPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjectModel/target/classes/com/crm/qa/pages/TasksPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageObjectModel/target/classes/com/crm/qa/util/TestUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjectModel/target/classes/com/crm/qa/util/TestUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageObjectModel/target/classes/com/crm/qa/util/WebEventListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjectModel/target/classes/com/crm/qa/util/WebEventListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageObjectModel/target/classes/com/qa/ExtentReportListener/ExtentReporterNG.class" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjectModel/target/classes/com/qa/ExtentReportListener/ExtentReporterNG.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageObjectModel/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjectModel/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageObjectModel/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjectModel/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageObjectModel/target/test-classes/com/crm/qa/testcases/ContactsPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjectModel/target/test-classes/com/crm/qa/testcases/ContactsPageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageObjectModel/target/test-classes/com/crm/qa/testcases/HomePageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjectModel/target/test-classes/com/crm/qa/testcases/HomePageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageObjectModel/target/test-classes/com/crm/qa/testcases/LoginPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjectModel/target/test-classes/com/crm/qa/testcases/LoginPageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium4Java17/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium4Java17/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium4Java17/src/test/java/com/example/selenium4java17/DemoRestTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium4Java17/src/test/java/com/example/selenium4java17/DemoRestTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webAutomationDemo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/webAutomationDemo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webAutomationDemo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/webAutomationDemo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webAutomationDemo/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/webAutomationDemo/src/main/java/org/ng/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2rIDwVyJIrAofket9J3FO7Rt37d" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "webauto",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/neetugokhe/MyLearnings"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e52f116-4ac9-440f-8257-988473755ff9" name="Changes" comment="" />
+      <created>1736237933930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736237933930</updated>
+    </task>
+    <servers />
+  </component>
+</project>
